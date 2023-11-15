@@ -1,0 +1,454 @@
+Nom du cookie;Domaine;Chemin;Durée de Vie;HTTP Only;Sécurisé;SameSite;Catégorie
+;;;;;;;Non classifié
+xdid;.fr.hotels.com;Persistent;Tierce Partie;False;True;2024-12-14 02:47:46;Suivi/Publicité
+EG_SESSIONTOKEN;.hotels.com;Persistent;Tierce Partie;True;True;2024-12-18 09:34:33;Suivi/Publicité
+_abck;.hotels.com;Persistent;Tierce Partie;False;True;2024-11-13 09:34:25;Suivi/Publicité
+s_ppn;.hotels.com;Persistent;Tierce Partie;False;False;2023-11-14 10:04:24;Suivi/Publicité
+AMCV_C00802BE5330A8350A490D4C%40AdobeOrg;.hotels.com;Persistent;Tierce Partie;False;False;2024-12-18 09:34:24;Suivi/Publicité
+AWSELBCORS;fr.hotels.com;Persistent;Première-Partie;False;True;2023-11-14 10:34:24;Persistant
+AWSELB;fr.hotels.com;Persistent;Première-Partie;False;False;2023-11-14 10:34:24;Persistant
+cesc;.hotels.com;Persistent;Tierce Partie;False;True;2024-12-18 09:34:24;Suivi/Publicité
+s_ips;.hotels.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+currency;.hotels.com;Persistent;Tierce Partie;True;True;2024-12-18 09:34:21;Suivi/Publicité
+session_id;fr.hotels.com;Session;Première-Partie;False;False;Session;Fonctionnel
+s_tp;.hotels.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+s_ppv;.hotels.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+AMCVS_C00802BE5330A8350A490D4C%40AdobeOrg;.hotels.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+bm_sz;.hotels.com;Persistent;Tierce Partie;False;False;2023-11-14 13:34:20;Suivi/Publicité
+akacd_pr_20;fr.hotels.com;Persistent;Première-Partie;False;True;2024-01-13 09:34:21;Persistant
+OIP;.hotels.com;Persistent;Tierce Partie;False;True;2024-12-18 09:34:21;Suivi/Publicité
+linfo;.hotels.com;Persistent;Tierce Partie;False;True;2024-12-18 09:34:33;Suivi/Publicité
+tpid;.hotels.com;Persistent;Tierce Partie;False;True;2023-11-25 23:21:01;Suivi/Publicité
+DUAID;.hotels.com;Persistent;Tierce Partie;False;True;2024-12-18 09:34:33;Suivi/Publicité
+page_name;fr.hotels.com;Session;Première-Partie;False;False;Session;Fonctionnel
+HMS;.hotels.com;Persistent;Tierce Partie;False;True;2023-11-14 10:04:33;Suivi/Publicité
+CRQS;.hotels.com;Persistent;Tierce Partie;True;True;2024-12-18 09:34:21;Suivi/Publicité
+iEAPID;.hotels.com;Session;Tierce Partie;False;True;Session;Suivi/Publicité
+MC1;.hotels.com;Persistent;Tierce Partie;False;True;2024-12-18 09:34:33;Suivi/Publicité
+CRQSS;.hotels.com;Session;Tierce Partie;True;True;Session;Suivi/Publicité
+OptanonConsent;.www.booking.com;Persistent;Tierce Partie;False;False;2024-05-12 10:44:37;Suivi/Publicité
+11_srd;.booking.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+qr_is_sr;.booking.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+bkng_sso_session;.booking.com;Persistent;Tierce Partie;True;True;2024-12-18 09:44:37;Suivi/Publicité
+OptanonAlertBoxClosed;.www.booking.com;Persistent;Tierce Partie;False;False;2024-05-12 10:44:37;Suivi/Publicité
+BJS;.booking.com;Persistent;Tierce Partie;True;True;2023-11-15 09:44:36;Suivi/Publicité
+bkng_sso_auth;.booking.com;Persistent;Tierce Partie;True;True;2023-11-21 09:44:35;Suivi/Publicité
+px_init;.booking.com;Persistent;Tierce Partie;True;True;2024-12-18 09:44:36;Suivi/Publicité
+lastSeen;.booking.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+cors_js;.booking.com;Persistent;Tierce Partie;False;False;2024-11-13 09:44:36;Suivi/Publicité
+bkng;.booking.com;Persistent;Tierce Partie;True;True;2024-12-18 09:44:36;Suivi/Publicité
+bkng_sso_ses;.booking.com;Persistent;Tierce Partie;True;True;2024-12-18 09:44:37;Suivi/Publicité
+_pxhd;.booking.com;Persistent;Tierce Partie;False;False;2024-11-13 09:44:36;Suivi/Publicité
+pcm_consent;.booking.com;Persistent;Tierce Partie;True;True;2023-11-21 09:44:35;Suivi/Publicité
+CONSENT;.youtube.com;Persistent;Tierce Partie;False;True;2024-12-18 09:49:06;Suivi/Publicité
+PREF;.youtube.com;Persistent;Tierce Partie;False;True;2024-12-18 09:49:12;Suivi/Publicité
+VISITOR_PRIVACY_METADATA;.youtube.com;Persistent;Tierce Partie;True;True;2024-12-13 09:49:06;Suivi/Publicité
+__Secure-YEC;.youtube.com;Persistent;Tierce Partie;True;True;2024-12-13 09:49:05;Suivi/Publicité
+YSC;.youtube.com;Session;Tierce Partie;True;True;Session;Suivi/Publicité
+wzcnst;.transavia.com;Persistent;Tierce Partie;False;True;2023-11-14 11:21:06;Suivi/Publicité
+wzuid;.transavia.com;Persistent;Tierce Partie;False;True;2024-11-13 10:21:06;Suivi/Publicité
+tra_debug_ga;.transavia.com;Persistent;Tierce Partie;False;False;2024-12-18 10:21:06;Suivi/Publicité
+cookies_accepted;.transavia.com;Persistent;Tierce Partie;False;False;2024-11-13 10:21:05;Suivi/Publicité
+_svs;.transavia.com;Persistent;Tierce Partie;False;False;2024-12-18 10:21:05;Suivi/Publicité
+nlbi_2897631;.transavia.com;Session;Tierce Partie;False;True;Session;Suivi/Publicité
+tra_ga;.transavia.com;Persistent;Tierce Partie;False;False;2024-12-18 10:21:01;Suivi/Publicité
+_svtri;.transavia.com;Persistent;Tierce Partie;False;False;2024-12-18 10:21:01;Suivi/Publicité
+reese84;.www.transavia.com;Persistent;Tierce Partie;False;False;2023-12-14 10:21:00;Suivi/Publicité
+_stCookieTest;.transavia.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+nlbi_2445686_2147483392;.transavia.com;Session;Tierce Partie;False;True;Session;Suivi/Publicité
+df_bpln;.transavia.com;Persistent;Tierce Partie;False;False;2023-11-14 10:51:00;Suivi/Publicité
+wzsid;.transavia.com;Persistent;Tierce Partie;False;True;2023-11-14 11:21:06;Suivi/Publicité
+tmDeviceId;www.transavia.com;Persistent;Première-Partie;True;True;2024-11-14 10:21:01;Persistant
+SC_ANALYTICS_GLOBAL_COOKIE;www.transavia.com;Persistent;Première-Partie;True;True;2024-12-18 10:21:00;Persistant
+incap_ses_1174_2897631;.transavia.com;Session;Tierce Partie;False;True;Session;Suivi/Publicité
+df_ss;.transavia.com;Persistent;Tierce Partie;False;False;2023-11-14 10:51:00;Suivi/Publicité
+incap_ses_1174_2445686;.transavia.com;Session;Tierce Partie;False;True;Session;Suivi/Publicité
+visid_incap_2445686;.transavia.com;Persistent;Tierce Partie;True;True;2024-11-12 23:40:13;Suivi/Publicité
+wzvp;.transavia.com;Persistent;Tierce Partie;False;True;2023-11-14 11:21:06;Suivi/Publicité
+_ga;.transavia.com;Persistent;Tierce Partie;False;False;2024-12-18 10:21:01;Suivi/Publicité
+tmConsent;www.transavia.com;Persistent;Première-Partie;True;True;2024-11-14 10:21:01;Persistant
+ASP.NET_SessionId;www.transavia.com;Session;Première-Partie;True;True;Session;Fonctionnel
+tmId;www.transavia.com;Persistent;Première-Partie;True;True;2024-11-14 10:21:01;Persistant
+df_vs;.transavia.com;Persistent;Tierce Partie;False;False;2023-11-14 10:51:00;Suivi/Publicité
+_gid;.transavia.com;Persistent;Tierce Partie;False;False;2023-11-15 10:21:01;Suivi/Publicité
+ConsentStatus;.transavia.com;Persistent;Tierce Partie;False;False;2024-11-13 10:21:01;Suivi/Publicité
+visid_incap_2897631;.transavia.com;Persistent;Tierce Partie;True;True;2024-11-12 23:40:12;Suivi/Publicité
+optimizelyEndUserId;.transavia.com;Persistent;Tierce Partie;False;False;2024-05-12 11:21:00;Suivi/Publicité
+tra_ga_21Q6T8Z90B;.transavia.com;Persistent;Tierce Partie;False;False;2024-12-18 10:21:05;Suivi/Publicité
+nlbi_2445686;.transavia.com;Session;Tierce Partie;False;True;Session;Suivi/Publicité
+websiteeu#lang;www.transavia.com;Session;Première-Partie;False;True;Session;Fonctionnel
+tra_debug_ga_F0BY53LJL9;.transavia.com;Persistent;Tierce Partie;False;False;2024-12-18 10:21:06;Suivi/Publicité
+x-ms-routing-name;.www.transavia.com;Persistent;Tierce Partie;True;True;2023-11-14 11:21:00;Suivi/Publicité
+TiPMix;.www.transavia.com;Persistent;Tierce Partie;True;True;2023-11-14 11:21:00;Suivi/Publicité
+bm_sv;.airfrance.fr;Persistent;Tierce Partie;False;True;2023-11-14 12:23:01;Suivi/Publicité
+ak_bmsc;.airfrance.fr;Persistent;Tierce Partie;True;False;2023-11-14 12:23:01;Suivi/Publicité
+af_id;.airfrance.fr;Persistent;Tierce Partie;False;True;2024-12-18 10:23:04;Suivi/Publicité
+session_affinity;wwws.airfrance.fr;Session;Première-Partie;True;True;Session;Fonctionnel
+_abck;.airfrance.fr;Persistent;Tierce Partie;False;True;2024-11-13 10:23:04;Suivi/Publicité
+klm_tracking_id;.wwws.airfrance.fr;Persistent;Tierce Partie;False;True;2023-11-15 10:23:02;Suivi/Publicité
+TS018c59be;wwws.airfrance.fr;Session;Première-Partie;False;False;Session;Fonctionnel
+klm_tracking_id;.airfrance.fr;Session;Tierce Partie;True;True;Session;Suivi/Publicité
+bm_mi;.airfrance.fr;Persistent;Tierce Partie;False;True;2023-11-14 12:23:01;Suivi/Publicité
+secure_aviato_id;wwws.airfrance.fr;Persistent;Première-Partie;True;True;2023-11-14 14:23:04;Persistant
+correlation_id;wwws.airfrance.fr;Session;Première-Partie;True;True;Session;Fonctionnel
+TS01166992;.airfrance.fr;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+bm_sz;.airfrance.fr;Persistent;Tierce Partie;False;False;2023-11-14 14:23:01;Suivi/Publicité
+TS01e1ab4d;.wwws.airfrance.fr;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+dtCookie;.airfrance.fr;Session;Tierce Partie;False;True;Session;Suivi/Publicité
+didomi_cookies;www.bfmtv.com;Persistent;Première-Partie;False;False;2024-11-13 10:34:58;Persistant
+didomi_token;.bfmtv.com;Persistent;Tierce Partie;False;False;2024-11-14 10:34:58;Suivi/Publicité
+atauthority;.bfmtv.com;Persistent;Tierce Partie;False;False;2024-12-15 10:34:58;Suivi/Publicité
+atuserid;.bfmtv.com;Persistent;Tierce Partie;False;False;2024-12-15 10:34:58;Suivi/Publicité
+guest_id;.twitter.com;Persistent;Tierce Partie;False;True;2024-12-14 10:36:21;Suivi/Publicité
+TAPAD;www.aufeminin.com;Session;Première-Partie;False;False;Session;Fonctionnel
+__gpi;.aufeminin.com;Persistent;Tierce Partie;False;False;2024-12-08 11:00:40;Suivi/Publicité
+__gads;.aufeminin.com;Persistent;Tierce Partie;False;False;2024-12-08 11:00:40;Suivi/Publicité
+SA;www.aufeminin.com;Persistent;Première-Partie;False;False;2023-11-15 11:00:40;Persistant
+_hjIncludedInSessionSample_3063876;.aufeminin.com;Persistent;Tierce Partie;False;True;2023-11-14 11:30:40;Suivi/Publicité
+_lr_geo_location;www.aufeminin.com;Persistent;Première-Partie;False;False;2023-11-15 11:00:40;Persistant
+_lr_geo_location_state;www.aufeminin.com;Persistent;Première-Partie;False;False;2023-11-15 11:00:40;Persistant
+nadz_dailyVisits;www.aufeminin.com;Persistent;Première-Partie;False;False;2023-11-16 00:59:59;Persistant
+FCNEC;.aufeminin.com;Persistent;Tierce Partie;False;False;2024-11-13 11:00:41;Suivi/Publicité
+_ttp;.aufeminin.com;Persistent;Tierce Partie;False;False;2024-12-08 11:00:40;Suivi/Publicité
+_ga_Z75ED4MEYT;.aufeminin.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+_hjFirstSeen;.aufeminin.com;Persistent;Tierce Partie;False;True;2023-11-14 11:30:40;Suivi/Publicité
+Wysistat;www.aufeminin.com;Persistent;Première-Partie;False;False;2024-12-13 11:00:34;Persistant
+_tt_enable_cookie;.aufeminin.com;Persistent;Tierce Partie;False;False;2024-12-08 11:00:40;Suivi/Publicité
+_fbp;.aufeminin.com;Persistent;Tierce Partie;False;False;2024-02-12 11:00:39;Suivi/Publicité
+af_session;.aufeminin.com;Persistent;Tierce Partie;False;False;2024-11-13 11:00:39;Suivi/Publicité
+countPV;www.aufeminin.com;Session;Première-Partie;False;False;Session;Fonctionnel
+_hjSessionUser_3063876;.aufeminin.com;Persistent;Tierce Partie;False;True;2024-11-13 11:00:40;Suivi/Publicité
+beopid;.www.aufeminin.com;Persistent;Tierce Partie;False;False;2024-11-13 11:00:39;Suivi/Publicité
+permutive-id;.aufeminin.com;Persistent;Tierce Partie;False;True;2024-12-14 11:00:39;Suivi/Publicité
+_pbjs_userid_consent_data;www.aufeminin.com;Persistent;Première-Partie;False;False;2023-12-14 11:00:39;Persistant
+_ga;.aufeminin.com;Persistent;Tierce Partie;False;False;2024-02-12 11:00:39;Suivi/Publicité
+_hjAbsoluteSessionInProgress;.aufeminin.com;Persistent;Tierce Partie;False;True;2023-11-14 11:30:40;Suivi/Publicité
+euconsent-v2;.aufeminin.com;Persistent;Tierce Partie;False;False;2024-05-15 11:00:39;Suivi/Publicité
+_hjSession_3063876;.aufeminin.com;Persistent;Tierce Partie;False;True;2023-11-14 11:30:40;Suivi/Publicité
+didomi_token;.aufeminin.com;Persistent;Tierce Partie;False;False;2024-05-15 11:00:39;Suivi/Publicité
+TAUD;.tripadvisor.com;Persistent;Tierce Partie;False;False;2023-11-28 15:03:51;Suivi/Publicité
+bm_sz;.tripadvisor.com;Persistent;Tierce Partie;False;False;2023-11-14 19:03:48;Suivi/Publicité
+_abck;.tripadvisor.com;Persistent;Tierce Partie;False;True;2024-11-13 15:03:50;Suivi/Publicité
+TASession;.tripadvisor.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+TATravelInfo;.tripadvisor.com;Persistent;Tierce Partie;False;False;2023-11-28 15:03:48;Suivi/Publicité
+TART;.www.tripadvisor.com;Persistent;Tierce Partie;True;False;2023-11-19 15:03:48;Suivi/Publicité
+PMC;.www.tripadvisor.com;Persistent;Tierce Partie;True;True;2024-12-18 15:03:50;Suivi/Publicité
+TASameSite;.www.tripadvisor.com;Persistent;Tierce Partie;True;True;2024-12-18 15:03:50;Suivi/Publicité
+TASSK;.www.tripadvisor.com;Persistent;Tierce Partie;True;False;2024-05-12 16:03:48;Suivi/Publicité
+__vt;.www.tripadvisor.com;Persistent;Tierce Partie;True;True;2023-11-14 16:03:48;Suivi/Publicité
+TASID;.www.tripadvisor.com;Persistent;Tierce Partie;False;True;2023-11-14 15:33:51;Suivi/Publicité
+ServerPool;.tripadvisor.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+PAC;.www.tripadvisor.com;Persistent;Tierce Partie;True;True;2024-12-18 15:03:51;Suivi/Publicité
+SRT;.www.tripadvisor.com;Persistent;Tierce Partie;False;False;2023-11-14 15:33:48;Suivi/Publicité
+roybatty;.tripadvisor.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+TAUnique;.tripadvisor.com;Persistent;Tierce Partie;True;False;2024-12-18 15:03:50;Suivi/Publicité
+datadome;.tripadvisor.com;Persistent;Tierce Partie;False;True;2024-11-08 15:03:51;Suivi/Publicité
+TADCID;.www.tripadvisor.com;Persistent;Tierce Partie;True;True;2024-12-18 15:03:50;Suivi/Publicité
+didomi_token;.konbini.com;Persistent;Tierce Partie;False;False;2024-05-15 15:32:13;Suivi/Publicité
+_pcid;www.konbini.com;Persistent;Première-Partie;False;True;2024-12-13 15:32:12;Persistant
+_pctx;www.konbini.com;Persistent;Première-Partie;False;True;2024-12-13 15:32:12;Persistant
+pa_privacy;www.konbini.com;Persistent;Première-Partie;False;True;2024-12-13 15:32:12;Persistant
+_ga_2XCYCNYNYB;.convertio.co;Persistent;Tierce Partie;False;False;2024-12-18 15:57:20;Suivi/Publicité
+s;convertio.co;Persistent;Première-Partie;True;False;2024-11-13 15:57:19;Persistant
+XSRF-TOKEN;convertio.co;Persistent;Première-Partie;False;False;2023-11-14 17:57:19;Persistant
+_gat_gtag_UA_55374714_1;.convertio.co;Persistent;Tierce Partie;False;False;2023-11-14 15:58:19;Suivi/Publicité
+laravel_session;convertio.co;Persistent;Première-Partie;True;False;2023-11-14 17:57:19;Persistant
+_gid;.convertio.co;Persistent;Tierce Partie;False;False;2023-11-15 15:57:19;Suivi/Publicité
+_ga;.convertio.co;Persistent;Tierce Partie;False;False;2024-12-18 15:57:19;Suivi/Publicité
+NID;.google.fr;Persistent;Tierce Partie;True;True;2024-12-14 08:16:25;Suivi/Publicité
+AEC;.google.fr;Persistent;Tierce Partie;True;True;2024-05-12 16:58:07;Suivi/Publicité
+SOCS;.google.fr;Persistent;Tierce Partie;False;True;2024-12-13 15:58:15;Suivi/Publicité
+CONSENT;.google.fr;Persistent;Tierce Partie;False;True;2024-12-18 15:58:07;Suivi/Publicité
+wpn_ad_cookie;.xnxx.com;Persistent;Tierce Partie;False;False;2023-11-21 15:59:06;Suivi/Publicité
+session_token;.xnxx.com;Persistent;Tierce Partie;False;True;2023-12-14 15:59:02;Suivi/Publicité
+cit;.xnxx.com;Persistent;Tierce Partie;False;False;2024-02-12 15:59:02;Suivi/Publicité
+_ga_B39RFFWGYY;.pornhub.com;Persistent;Tierce Partie;False;False;2024-12-18 16:00:57;Suivi/Publicité
+bs;.pornhub.com;Session;Tierce Partie;False;True;Session;Suivi/Publicité
+cookieConsent;.pornhub.com;Session;Tierce Partie;False;True;Session;Suivi/Publicité
+_ga;.pornhub.com;Persistent;Tierce Partie;False;False;2024-12-18 16:00:57;Suivi/Publicité
+__s;fr.pornhub.com;Session;Première-Partie;False;True;Session;Fonctionnel
+fg_fa3f0973fd973fca3dfabc86790b408b;.pornhub.com;Persistent;Tierce Partie;False;True;2023-12-14 16:00:56;Suivi/Publicité
+fg_9951ce1ac4434b4ac312a1334fa77d82;.pornhub.com;Persistent;Tierce Partie;False;True;2023-12-14 16:00:56;Suivi/Publicité
+accessAgeDisclaimerPH;.pornhub.com;Persistent;Tierce Partie;False;False;2024-11-13 16:00:57;Suivi/Publicité
+__l;fr.pornhub.com;Persistent;Première-Partie;False;True;2024-11-13 21:49:43;Persistant
+fg_0d2ec4cbd943df07ec161982a603817e;.pornhub.com;Persistent;Tierce Partie;False;True;2023-12-14 16:00:56;Suivi/Publicité
+ss;.pornhub.com;Persistent;Tierce Partie;False;True;2024-11-13 16:00:56;Suivi/Publicité
+fg_f916a4d27adf4fc066cd2d778b4d388e;.pornhub.com;Persistent;Tierce Partie;False;True;2023-12-14 16:00:56;Suivi/Publicité
+platform;.pornhub.com;Persistent;Tierce Partie;False;True;2023-11-21 16:00:56;Suivi/Publicité
+_gat_UA-40988129-17;.mym.fans;Persistent;Tierce Partie;False;False;2023-11-14 16:02:59;Suivi/Publicité
+_fbp;.mym.fans;Persistent;Tierce Partie;False;False;2024-02-12 16:02:02;Suivi/Publicité
+_gid;.mym.fans;Persistent;Tierce Partie;False;False;2023-11-15 16:01:59;Suivi/Publicité
+_ga;.mym.fans;Persistent;Tierce Partie;False;False;2024-12-18 16:01:59;Suivi/Publicité
+_hjAbsoluteSessionInProgress;.mym.fans;Persistent;Tierce Partie;False;True;2023-11-14 16:31:59;Suivi/Publicité
+_hjIncludedInSessionSample_3200599;.mym.fans;Persistent;Tierce Partie;False;True;2023-11-14 16:31:59;Suivi/Publicité
+_hjSessionUser_3200599;.mym.fans;Persistent;Tierce Partie;False;True;2024-11-13 16:01:59;Suivi/Publicité
+PHPSESSID;mym.fans;Persistent;Première-Partie;True;True;2023-11-21 15:45:19;Persistant
+cookiefirst-consent;mym.fans;Persistent;Première-Partie;False;True;2024-11-08 16:02:02;Persistant
+_ttp;.mym.fans;Persistent;Tierce Partie;False;False;2024-12-08 16:01:59;Suivi/Publicité
+_ga_9WD7M2HTPT;.mym.fans;Persistent;Tierce Partie;False;False;2024-12-18 16:01:59;Suivi/Publicité
+_gcl_au;.mym.fans;Persistent;Tierce Partie;False;False;2024-02-12 16:01:59;Suivi/Publicité
+_hjSession_3200599;.mym.fans;Persistent;Tierce Partie;False;True;2023-11-14 16:31:59;Suivi/Publicité
+_locale;mym.fans;Persistent;Première-Partie;True;True;2023-11-29 16:01:59;Persistant
+_tt_enable_cookie;.mym.fans;Persistent;Tierce Partie;False;False;2024-12-08 16:01:59;Suivi/Publicité
+_hjFirstSeen;.mym.fans;Persistent;Tierce Partie;False;True;2023-11-14 16:31:59;Suivi/Publicité
+device_view;mym.fans;Persistent;Première-Partie;True;False;2023-12-14 16:01:59;Persistant
+_gcl_au;.hostinger.fr;Persistent;Tierce Partie;False;False;2024-02-12 16:03:55;Suivi/Publicité
+cookie_consent;www.hostinger.fr;Persistent;Première-Partie;False;False;2024-11-13 16:03:55;Persistant
+i18n_redirected;www.hostinger.fr;Persistent;Première-Partie;False;False;2024-11-13 16:03:54;Persistant
+__cflb;www.hostinger.fr;Persistent;Première-Partie;True;False;2023-11-15 15:03:54;Persistant
+__gpi;.marmiton.org;Persistent;Tierce Partie;False;False;2024-12-08 16:05:02;Suivi/Publicité
+__gads;.marmiton.org;Persistent;Tierce Partie;False;False;2024-12-08 16:05:02;Suivi/Publicité
+TAPAD;www.marmiton.org;Session;Première-Partie;False;False;Session;Fonctionnel
+SA;www.marmiton.org;Persistent;Première-Partie;False;False;2023-11-15 16:05:02;Persistant
+_hjSession_3052633;.marmiton.org;Persistent;Tierce Partie;False;True;2023-11-14 16:35:02;Suivi/Publicité
+_hjFirstSeen;.marmiton.org;Persistent;Tierce Partie;False;True;2023-11-14 16:35:02;Suivi/Publicité
+nadz_dailyVisits;www.marmiton.org;Persistent;Première-Partie;False;False;2023-11-16 00:59:59;Persistant
+_fbp;.marmiton.org;Persistent;Tierce Partie;False;False;2024-02-12 16:05:02;Suivi/Publicité
+_ttp;.marmiton.org;Persistent;Tierce Partie;False;False;2024-12-08 16:05:02;Suivi/Publicité
+cto_bundle;.marmiton.org;Persistent;Tierce Partie;False;False;2024-12-08 16:05:05;Suivi/Publicité
+permutive-id;.marmiton.org;Persistent;Tierce Partie;False;True;2024-12-14 16:05:01;Suivi/Publicité
+_hjIncludedInSessionSample_3052633;.marmiton.org;Persistent;Tierce Partie;False;True;2023-11-14 16:35:02;Suivi/Publicité
+_ga;.marmiton.org;Persistent;Tierce Partie;False;False;2024-12-18 16:05:01;Suivi/Publicité
+_hjSessionUser_3052633;.marmiton.org;Persistent;Tierce Partie;False;True;2024-11-13 16:05:02;Suivi/Publicité
+euconsent-v2;.marmiton.org;Persistent;Tierce Partie;False;False;2024-05-15 16:05:01;Suivi/Publicité
+af_session;.marmiton.org;Persistent;Tierce Partie;False;False;2024-11-13 16:05:01;Suivi/Publicité
+_tt_enable_cookie;.marmiton.org;Persistent;Tierce Partie;False;False;2024-12-08 16:05:02;Suivi/Publicité
+FCNEC;.marmiton.org;Persistent;Tierce Partie;False;False;2024-11-13 16:05:02;Suivi/Publicité
+_ga_1QKNB5N4F4;.marmiton.org;Persistent;Tierce Partie;False;False;2024-12-18 16:05:01;Suivi/Publicité
+_hjAbsoluteSessionInProgress;.marmiton.org;Persistent;Tierce Partie;False;True;2023-11-14 16:35:02;Suivi/Publicité
+didomi_token;.marmiton.org;Persistent;Tierce Partie;False;False;2024-05-15 16:05:01;Suivi/Publicité
+Wysistat;www.marmiton.org;Persistent;Première-Partie;False;False;2024-12-13 16:04:56;Persistant
+ckLang;www.jw.org;Persistent;Première-Partie;False;False;2024-11-13 16:07:44;Persistant
+cookieConsent-USAGE;www.jw.org;Persistent;Première-Partie;False;False;2024-11-13 16:07:44;Persistant
+cookieConsent-STRICTLY_NECESSARY;www.jw.org;Persistent;Première-Partie;False;False;2024-11-13 16:07:44;Persistant
+cookieConsent-DIAGNOSTIC;www.jw.org;Persistent;Première-Partie;False;False;2024-11-13 16:07:44;Persistant
+cookieConsent-FUNCTIONAL;www.jw.org;Persistent;Première-Partie;False;False;2024-11-13 16:07:44;Persistant
+ak_bmsc;.jw.org;Persistent;Tierce Partie;True;False;2023-11-14 18:07:40;Suivi/Publicité
+akacd_rel;www.jw.org;Persistent;Première-Partie;False;True;2023-11-14 17:07:40;Persistant
+__gpi;.jeuxvideo.com;Persistent;Tierce Partie;False;False;2024-12-08 16:14:16;Suivi/Publicité
+cto_bidid;.jeuxvideo.com;Persistent;Tierce Partie;False;False;2024-12-08 17:14:10;Suivi/Publicité
+__gads;.jeuxvideo.com;Persistent;Tierce Partie;False;False;2024-12-08 16:14:16;Suivi/Publicité
+cto_bundle;.jeuxvideo.com;Persistent;Tierce Partie;False;False;2024-12-08 17:14:10;Suivi/Publicité
+_tfpvi;www.jeuxvideo.com;Persistent;Première-Partie;False;False;2024-11-13 16:14:15;Persistant
+pbjs-unifiedid;www.jeuxvideo.com;Session;Première-Partie;False;False;Session;Fonctionnel
+mics_lts;www.jeuxvideo.com;Persistent;Première-Partie;False;False;2024-05-12 17:14:16;Persistant
+_lr_env_src_ats;www.jeuxvideo.com;Persistent;Première-Partie;False;False;2023-12-14 16:14:15;Persistant
+_lr_retry_request;www.jeuxvideo.com;Persistent;Première-Partie;False;False;2023-11-14 17:14:15;Persistant
+mics_vid;www.jeuxvideo.com;Persistent;Première-Partie;False;False;2024-05-12 17:14:16;Persistant
+_lr_geo_location;www.jeuxvideo.com;Persistent;Première-Partie;False;False;2023-11-15 16:14:15;Persistant
+fidcsnt;www.jeuxvideo.com;Persistent;Première-Partie;False;False;2024-11-13 16:14:15;Persistant
+_pbjs_userid_consent_data;www.jeuxvideo.com;Persistent;Première-Partie;False;False;2023-12-14 16:14:15;Persistant
+euconsent-v2;.jeuxvideo.com;Persistent;Tierce Partie;False;False;2024-11-14 16:14:15;Suivi/Publicité
+_gid;.jeuxvideo.com;Persistent;Tierce Partie;False;False;2023-11-15 16:14:15;Suivi/Publicité
+_ga;.jeuxvideo.com;Persistent;Tierce Partie;False;False;2024-12-14 02:14:15;Suivi/Publicité
+didomi_token;.jeuxvideo.com;Persistent;Tierce Partie;False;False;2024-11-14 16:14:15;Suivi/Publicité
+_lr_geo_location_state;www.jeuxvideo.com;Persistent;Première-Partie;False;False;2023-11-15 16:14:15;Persistant
+_lr_sampling_rate;www.jeuxvideo.com;Persistent;Première-Partie;False;False;2023-11-15 16:14:18;Persistant
+visitor_country;.www.jeuxvideo.com;Persistent;Tierce Partie;False;False;2024-11-13 16:14:09;Suivi/Publicité
+datadome;.leboncoin.fr;Persistent;Tierce Partie;False;True;2024-11-13 16:35:26;Suivi/Publicité
+_hjAbsoluteSessionInProgress;.leboncoin.fr;Persistent;Tierce Partie;False;True;2023-11-14 17:05:21;Suivi/Publicité
+_hjSessionUser_2783207;.leboncoin.fr;Persistent;Tierce Partie;False;True;2024-11-13 16:35:21;Suivi/Publicité
+atidvisitor;www.leboncoin.fr;Persistent;Première-Partie;False;False;2024-12-13 16:35:17;Persistant
+_hjIncludedInSessionSample_2783207;.leboncoin.fr;Persistent;Tierce Partie;False;True;2023-11-14 17:05:21;Suivi/Publicité
+_hjFirstSeen;.leboncoin.fr;Persistent;Tierce Partie;False;True;2023-11-14 17:05:21;Suivi/Publicité
+include_in_experiment;.leboncoin.fr;Session;Tierce Partie;False;True;Session;Suivi/Publicité
+euconsent-v2;.leboncoin.fr;Persistent;Tierce Partie;False;False;2024-05-15 16:35:20;Suivi/Publicité
+dblockV;www.leboncoin.fr;Persistent;Première-Partie;False;False;2024-12-14 01:28:40;Persistant
+__Secure-Install;.leboncoin.fr;Persistent;Tierce Partie;False;True;2024-05-15 17:35:17;Suivi/Publicité
+didomi_token;.leboncoin.fr;Persistent;Tierce Partie;False;False;2024-05-15 16:35:20;Suivi/Publicité
+_hjSession_2783207;.leboncoin.fr;Persistent;Tierce Partie;False;True;2023-11-14 17:05:21;Suivi/Publicité
+dblockS;www.leboncoin.fr;Session;Première-Partie;False;False;Session;Fonctionnel
+utag_main;.leboncoin.fr;Persistent;Tierce Partie;False;False;2024-11-13 16:35:17;Suivi/Publicité
+__Secure-InstanceId;.leboncoin.fr;Persistent;Tierce Partie;False;True;2024-05-15 17:35:17;Suivi/Publicité
+pbjs-id5id_last;www.doctissimo.fr;Persistent;Première-Partie;False;False;2024-02-12 16:38:50;Persistant
+__gpi;.doctissimo.fr;Persistent;Tierce Partie;False;False;2024-12-08 16:38:50;Suivi/Publicité
+nadz_dailyVisits;www.doctissimo.fr;Persistent;Première-Partie;False;False;2023-11-16 00:59:59;Persistant
+_ttp;.doctissimo.fr;Persistent;Tierce Partie;False;False;2024-12-08 16:38:49;Suivi/Publicité
+_hjSession_3078202;.doctissimo.fr;Persistent;Tierce Partie;False;True;2023-11-14 17:08:49;Suivi/Publicité
+_hjIncludedInSessionSample_3078202;.doctissimo.fr;Persistent;Tierce Partie;False;True;2023-11-14 17:08:49;Suivi/Publicité
+_hjAbsoluteSessionInProgress;.doctissimo.fr;Persistent;Tierce Partie;False;True;2023-11-14 17:08:49;Suivi/Publicité
+_hjFirstSeen;.doctissimo.fr;Persistent;Tierce Partie;False;True;2023-11-14 17:08:49;Suivi/Publicité
+pbjs-id5id;www.doctissimo.fr;Persistent;Première-Partie;False;False;2024-02-12 16:38:50;Persistant
+beopid;.www.doctissimo.fr;Persistent;Tierce Partie;False;False;2024-11-13 16:38:49;Suivi/Publicité
+TAPAD;www.doctissimo.fr;Session;Première-Partie;False;False;Session;Fonctionnel
+_pbjs_userid_consent_data;www.doctissimo.fr;Persistent;Première-Partie;False;False;2023-12-14 16:38:49;Persistant
+__gads;.doctissimo.fr;Persistent;Tierce Partie;False;False;2024-12-08 16:38:50;Suivi/Publicité
+didomi_token;.doctissimo.fr;Persistent;Tierce Partie;False;False;2024-05-15 16:38:49;Suivi/Publicité
+_fbp;.doctissimo.fr;Persistent;Tierce Partie;False;False;2024-02-12 16:38:49;Suivi/Publicité
+permutive-id;.doctissimo.fr;Persistent;Tierce Partie;False;True;2024-12-14 16:38:49;Suivi/Publicité
+_ga_SZF7Z81G3Q;.doctissimo.fr;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+_tt_enable_cookie;.doctissimo.fr;Persistent;Tierce Partie;False;False;2024-12-08 16:38:49;Suivi/Publicité
+_hjSessionUser_3078202;.doctissimo.fr;Persistent;Tierce Partie;False;True;2024-11-13 16:38:49;Suivi/Publicité
+SA;www.doctissimo.fr;Persistent;Première-Partie;False;False;2023-11-15 16:38:50;Persistant
+euconsent-v2;.doctissimo.fr;Persistent;Tierce Partie;False;False;2024-05-15 16:38:49;Suivi/Publicité
+_ga;.doctissimo.fr;Persistent;Tierce Partie;False;False;2024-02-12 16:38:49;Suivi/Publicité
+Wysistat;www.doctissimo.fr;Persistent;Première-Partie;False;False;2024-12-13 16:38:47;Persistant
+didomi_token;.doctolib.fr;Persistent;Tierce Partie;False;False;2024-05-15 16:42:05;Suivi/Publicité
+_cfuvid;.doctolib.fr;Session;Tierce Partie;True;True;Session;Suivi/Publicité
+_doctolib_session;www.doctolib.fr;Session;Première-Partie;True;True;Session;Fonctionnel
+euconsent-v2;.doctolib.fr;Persistent;Tierce Partie;False;False;2024-05-15 16:42:05;Suivi/Publicité
+__cf_bm;.doctolib.fr;Persistent;Tierce Partie;True;True;2023-11-14 17:12:03;Suivi/Publicité
+acid_marketing_obk_spe_cvr;www.doctolib.fr;Persistent;Première-Partie;False;False;2023-11-14 17:12:05;Persistant
+esid;www.doctolib.fr;Session;Première-Partie;False;True;Session;Fonctionnel
+ssid;www.doctolib.fr;Persistent;Première-Partie;False;True;2024-12-14 16:42:03;Persistant
+kvn;.fnac.com;Persistent;Tierce Partie;False;False;2023-11-15 16:45:22;Suivi/Publicité
+OptanonConsent;.fnac.com;Persistent;Tierce Partie;False;False;2024-05-12 17:45:22;Suivi/Publicité
+s_vi;.fnac.com;Persistent;Tierce Partie;False;False;2024-12-08 16:45:21;Suivi/Publicité
+etuix;.fnac.com;Persistent;Tierce Partie;True;True;2024-12-11 16:45:21;Suivi/Publicité
+s_fid;.fnac.com;Persistent;Tierce Partie;False;True;2024-12-08 16:45:22;Suivi/Publicité
+s_sq;.fnac.com;Session;Tierce Partie;False;True;Session;Suivi/Publicité
+kameleoonVisitorCode;.fnac.com;Persistent;Tierce Partie;False;False;2024-11-13 16:45:22;Suivi/Publicité
+datadome;.fnac.com;Persistent;Tierce Partie;False;True;2024-11-13 16:45:21;Suivi/Publicité
+eupubconsent-v2;.fnac.com;Persistent;Tierce Partie;False;False;2024-05-12 17:45:22;Suivi/Publicité
+test;.fnac.com;Persistent;Tierce Partie;False;False;2023-12-14 16:45:20;Suivi/Publicité
+iadvize-3-consent;.fnac.com;Persistent;Tierce Partie;False;True;2024-11-13 16:45:21;Suivi/Publicité
+s_cc;.fnac.com;Session;Tierce Partie;False;True;Session;Suivi/Publicité
+VID;.fnac.com;Persistent;Tierce Partie;False;True;2023-11-14 17:15:20;Suivi/Publicité
+OptanonAlertBoxClosed;.fnac.com;Persistent;Tierce Partie;False;False;2024-05-12 17:45:22;Suivi/Publicité
+SID;.fnac.com;Persistent;Tierce Partie;False;True;2024-05-12 17:45:20;Suivi/Publicité
+UID;.fnac.com;Persistent;Tierce Partie;False;True;2024-05-12 17:45:20;Suivi/Publicité
+OrderInSession;.fnac.com;Session;Tierce Partie;False;True;Session;Suivi/Publicité
+ORGN;.fnac.com;Persistent;Tierce Partie;False;True;2023-11-24 16:45:20;Suivi/Publicité
+OptanonConsent;.darty.com;Persistent;Tierce Partie;False;False;2024-05-12 17:47:26;Suivi/Publicité
+_fbp;.darty.com;Persistent;Tierce Partie;False;False;2024-02-12 16:47:27;Suivi/Publicité
+_hjAbsoluteSessionInProgress;.darty.com;Persistent;Tierce Partie;False;True;2023-11-14 17:17:25;Suivi/Publicité
+_hjSession_1646490;.darty.com;Persistent;Tierce Partie;False;True;2023-11-14 17:17:25;Suivi/Publicité
+_hjFirstSeen;.darty.com;Persistent;Tierce Partie;False;True;2023-11-14 17:17:25;Suivi/Publicité
+eupubconsent-v2;.darty.com;Persistent;Tierce Partie;False;False;2024-05-12 17:47:26;Suivi/Publicité
+_cs_id;.darty.com;Persistent;Tierce Partie;False;False;2024-12-14 02:47:25;Suivi/Publicité
+_gcl_au;.darty.com;Persistent;Tierce Partie;False;False;2024-02-12 16:47:26;Suivi/Publicité
+dataiads-analyticsid.ba4e;.darty.com;Persistent;Tierce Partie;False;True;2024-12-18 16:47:26;Suivi/Publicité
+_hjIncludedInSessionSample_1646490;.darty.com;Persistent;Tierce Partie;False;True;2023-11-14 17:17:25;Suivi/Publicité
+_cs_s;.darty.com;Persistent;Tierce Partie;False;False;2023-11-14 17:17:25;Suivi/Publicité
+_uetvid;.darty.com;Persistent;Tierce Partie;False;False;2024-12-08 16:47:25;Suivi/Publicité
+iadvize-501-vuid;.darty.com;Persistent;Tierce Partie;False;True;2024-11-13 16:47:26;Suivi/Publicité
+_uetsid;.darty.com;Persistent;Tierce Partie;False;False;2023-11-15 16:47:25;Suivi/Publicité
+cto_bundle;.darty.com;Persistent;Tierce Partie;False;False;2024-12-14 02:47:25;Suivi/Publicité
+dataiads-analyticsses.ba4e;.darty.com;Persistent;Tierce Partie;False;True;2023-11-14 17:17:26;Suivi/Publicité
+dartLev;.darty.com;Persistent;Tierce Partie;False;False;2023-12-14 16:47:24;Suivi/Publicité
+kameleoonVisitorCode;.darty.com;Persistent;Tierce Partie;False;False;2024-11-28 16:47:26;Suivi/Publicité
+s_dartCanStc;.darty.com;Persistent;Tierce Partie;False;False;2023-12-14 16:47:24;Suivi/Publicité
+dartProfPa;.darty.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+TCID;.darty.com;Persistent;Tierce Partie;False;False;2024-11-13 16:47:24;Suivi/Publicité
+_cs_c;.darty.com;Persistent;Tierce Partie;False;False;2024-12-14 02:47:25;Suivi/Publicité
+mics_lts;www.darty.com;Persistent;Première-Partie;False;False;2024-05-12 17:47:26;Persistant
+OptanonAlertBoxClosed;.darty.com;Persistent;Tierce Partie;False;False;2024-05-12 17:47:25;Suivi/Publicité
+iadvize-501-consent;.darty.com;Persistent;Tierce Partie;False;True;2024-11-13 16:47:26;Suivi/Publicité
+datadome;.darty.com;Persistent;Tierce Partie;False;True;2024-11-13 16:47:25;Suivi/Publicité
+_hjHasCachedUserAttributes;www.darty.com;Session;Première-Partie;False;True;Session;Fonctionnel
+tc_cj_v2;.darty.com;Persistent;Tierce Partie;False;False;2024-11-13 16:47:24;Suivi/Publicité
+dtCookie;.darty.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+tCdebugLib;.darty.com;Persistent;Tierce Partie;False;False;2023-12-14 16:47:24;Suivi/Publicité
+tc_payment;.darty.com;Persistent;Tierce Partie;False;False;2023-11-15 16:47:26;Suivi/Publicité
+s_dartCode;.darty.com;Persistent;Tierce Partie;False;False;2023-12-14 16:47:24;Suivi/Publicité
+etuix;.darty.com;Persistent;Tierce Partie;True;True;2024-12-11 16:47:25;Suivi/Publicité
+eb-profile;.darty.com;Persistent;Tierce Partie;False;False;2024-11-13 16:47:25;Suivi/Publicité
+mics_vid;www.darty.com;Persistent;Première-Partie;False;False;2024-05-12 17:47:26;Persistant
+TCSESSION;.darty.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+_hjSessionUser_1646490;.darty.com;Persistent;Tierce Partie;False;True;2024-11-13 16:47:25;Suivi/Publicité
+templateVariant;www.darty.com;Persistent;Première-Partie;False;False;2024-11-13 16:47:24;Persistant
+_vfa;.20minutes.fr;Persistent;Tierce Partie;False;True;2024-11-13 16:52:45;Suivi/Publicité
+mics_vid;www.20minutes.fr;Persistent;Première-Partie;False;False;2024-05-12 17:52:44;Persistant
+_vfb;www.20minutes.fr;Persistent;Première-Partie;False;False;2023-11-14 17:22:43;Persistant
+_vfz;www.20minutes.fr;Persistent;Première-Partie;False;False;2023-11-14 16:58:45;Persistant
+_t_tests;.20minutes.fr;Persistent;Tierce Partie;False;True;2023-11-14 17:52:43;Suivi/Publicité
+__gads;.20minutes.fr;Persistent;Tierce Partie;False;False;2024-12-08 16:52:44;Suivi/Publicité
+_cb_svref;.20minutes.fr;Persistent;Tierce Partie;False;True;2023-11-14 17:22:43;Suivi/Publicité
+_vfa;www.20minutes.fr;Persistent;Première-Partie;False;False;2024-11-13 16:52:43;Persistant
+_chartbeat2;.20minutes.fr;Persistent;Tierce Partie;False;True;2024-12-13 16:52:43;Suivi/Publicité
+ownpage_fp2;.20minutes.fr;Persistent;Tierce Partie;False;False;2024-11-13 16:52:43;Suivi/Publicité
+_vfb;.20minutes.fr;Persistent;Tierce Partie;False;True;2023-11-14 17:22:45;Suivi/Publicité
+nli;.20minutes.fr;Persistent;Tierce Partie;False;True;2024-12-13 16:52:40;Suivi/Publicité
+_cb;.20minutes.fr;Persistent;Tierce Partie;False;True;2024-12-13 16:52:43;Suivi/Publicité
+euconsent-v2;.20minutes.fr;Persistent;Tierce Partie;False;False;2024-05-12 16:52:42;Suivi/Publicité
+__gpi;.20minutes.fr;Persistent;Tierce Partie;False;False;2024-12-08 16:52:44;Suivi/Publicité
+didomi_token;.20minutes.fr;Persistent;Tierce Partie;False;False;2024-05-12 16:52:42;Suivi/Publicité
+atauthority;www.20minutes.fr;Persistent;Première-Partie;False;False;2024-12-15 16:52:42;Persistant
+mics_lts;www.20minutes.fr;Persistent;Première-Partie;False;False;2024-05-12 17:52:44;Persistant
+atuserid;www.20minutes.fr;Persistent;Première-Partie;False;False;2024-12-15 16:52:40;Persistant
+AB_test_privacy;.tf1info.fr;Persistent;Tierce Partie;False;False;2023-12-14 16:58:01;Suivi/Publicité
+TCPID;.tf1info.fr;Persistent;Tierce Partie;False;False;2024-12-11 16:58:01;Suivi/Publicité
+TC_PRIVACY;.tf1info.fr;Persistent;Tierce Partie;False;False;2024-05-12 17:58:03;Suivi/Publicité
+tc_unique_id;.tf1info.fr;Persistent;Tierce Partie;False;False;2024-12-13 16:58:01;Suivi/Publicité
+gig_canary_ver;.www.tf1info.fr;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+TC_PRIVACY_CENTER;.tf1info.fr;Persistent;Tierce Partie;False;False;2024-05-12 17:58:03;Suivi/Publicité
+gig_canary;.www.tf1info.fr;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+Session;.materiel.net;Persistent;Tierce Partie;True;True;2023-12-14 18:18:58;Suivi/Publicité
+Geolocation;.materiel.net;Persistent;Tierce Partie;True;True;2024-02-12 18:18:58;Suivi/Publicité
+_pk_ses.2.fbad;.materiel.net;Persistent;Tierce Partie;False;False;2023-11-14 18:48:58;Suivi/Publicité
+_pk_id.2.fbad;.materiel.net;Persistent;Tierce Partie;False;False;2024-12-11 18:18:58;Suivi/Publicité
+_pcid;.boursorama.com;Persistent;Tierce Partie;False;True;2024-12-14 08:56:43;Suivi/Publicité
+_pprv;.boursorama.com;Persistent;Tierce Partie;False;True;2024-12-14 08:56:43;Suivi/Publicité
+tc_prvBarPageCounter;.boursorama.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+didomi_cookies;www.boursorama.com;Persistent;Première-Partie;False;False;2024-11-14 08:56:43;Persistant
+_pctx;.boursorama.com;Persistent;Tierce Partie;False;True;2024-12-14 08:56:43;Suivi/Publicité
+euconsent-v2;.www.boursorama.com;Persistent;Tierce Partie;False;False;2024-05-16 08:56:43;Suivi/Publicité
+__gpi;.boursorama.com;Persistent;Tierce Partie;False;False;2024-12-09 08:56:46;Suivi/Publicité
+__gads;.boursorama.com;Persistent;Tierce Partie;False;False;2024-12-09 08:56:46;Suivi/Publicité
+didomi_portal;.www.boursorama.com;Persistent;Tierce Partie;False;False;2024-05-16 08:56:43;Suivi/Publicité
+RT;.boursorama.com;Persistent;Tierce Partie;False;False;2023-11-22 08:56:41;Suivi/Publicité
+csm-hit;www.amazon.com;Persistent;Première-Partie;False;False;2024-10-30 09:02:00;Persistant
+ubid-main;.amazon.com;Persistent;Tierce Partie;False;True;2024-11-14 09:01:56;Suivi/Publicité
+skin;.amazon.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+sp-cdn;.amazon.com;Persistent;Tierce Partie;True;True;2024-11-14 09:01:41;Suivi/Publicité
+session-id-time;.amazon.com;Persistent;Tierce Partie;False;False;2024-11-14 09:01:56;Suivi/Publicité
+i18n-prefs;.amazon.com;Persistent;Tierce Partie;False;False;2024-11-14 09:01:41;Suivi/Publicité
+session-token;.amazon.com;Persistent;Tierce Partie;False;True;2024-11-14 09:01:55;Suivi/Publicité
+session-id;.amazon.com;Persistent;Tierce Partie;False;True;2024-11-14 09:01:56;Suivi/Publicité
+lastClickUtm;www.veepee.fr;Persistent;Première-Partie;False;False;2023-11-15 10:03:42;Persistant
+_hjSession_1831623;.veepee.fr;Persistent;Tierce Partie;False;True;2023-11-15 09:33:34;Suivi/Publicité
+_hjFirstSeen;.veepee.fr;Persistent;Tierce Partie;False;True;2023-11-15 09:33:34;Suivi/Publicité
+_qta_rum;.veepee.fr;Persistent;Tierce Partie;False;False;2023-11-15 09:33:47;Suivi/Publicité
+_hjSessionUser_1831623;.veepee.fr;Persistent;Tierce Partie;False;True;2024-11-14 09:03:34;Suivi/Publicité
+_hjIncludedInSessionSample_1831623;.veepee.fr;Persistent;Tierce Partie;False;True;2023-11-15 09:33:34;Suivi/Publicité
+lastClickPartnerId;www.veepee.fr;Persistent;Première-Partie;False;False;2023-11-15 10:03:42;Persistant
+_hjAbsoluteSessionInProgress;.veepee.fr;Persistent;Tierce Partie;False;True;2023-11-15 09:33:34;Suivi/Publicité
+OptanonConsent;.veepee.fr;Persistent;Tierce Partie;False;False;2024-05-13 10:03:31;Suivi/Publicité
+OptanonAlertBoxClosed;.veepee.fr;Persistent;Tierce Partie;False;False;2024-05-13 10:03:31;Suivi/Publicité
+_hjIncludedInSessionSample_3058350;.showroomprive.com;Persistent;Tierce Partie;False;True;2023-11-15 09:35:08;Suivi/Publicité
+_hjSessionUser_3058350;.showroomprive.com;Persistent;Tierce Partie;False;True;2024-11-14 09:05:08;Suivi/Publicité
+_fbp;.showroomprive.com;Persistent;Tierce Partie;False;False;2024-02-13 09:05:07;Suivi/Publicité
+_clsk;.showroomprive.com;Persistent;Tierce Partie;False;False;2023-11-16 09:05:07;Suivi/Publicité
+_clck;.showroomprive.com;Persistent;Tierce Partie;False;False;2024-11-14 09:05:06;Suivi/Publicité
+_ttp;.showroomprive.com;Persistent;Tierce Partie;False;False;2024-12-09 09:05:03;Suivi/Publicité
+ABTasty;.showroomprive.com;Persistent;Tierce Partie;False;False;2024-12-15 09:05:02;Suivi/Publicité
+ABTastySession;.showroomprive.com;Persistent;Tierce Partie;False;False;2023-11-15 09:35:02;Suivi/Publicité
+_scid_r;.showroomprive.com;Persistent;Tierce Partie;False;False;2024-12-15 01:23:20;Suivi/Publicité
+_gat_UA-935150-1;.showroomprive.com;Persistent;Tierce Partie;False;False;2023-11-15 09:06:00;Suivi/Publicité
+_uetvid;.showroomprive.com;Persistent;Tierce Partie;False;False;2024-12-09 09:04:56;Suivi/Publicité
+_uetsid;.showroomprive.com;Persistent;Tierce Partie;False;False;2023-11-16 09:04:56;Suivi/Publicité
+_hjFirstSeen;.showroomprive.com;Persistent;Tierce Partie;False;True;2023-11-15 09:35:08;Suivi/Publicité
+_ga_SVF9N7ZGDD;.showroomprive.com;Persistent;Tierce Partie;False;False;2024-12-14 19:04:59;Suivi/Publicité
+chk;.showroomprive.com;Persistent;Tierce Partie;True;True;2023-11-15 10:04:50;Suivi/Publicité
+comptPage;www.showroomprive.com;Session;Première-Partie;False;False;Session;Fonctionnel
+_hjSession_3058350;.showroomprive.com;Persistent;Tierce Partie;False;True;2023-11-15 09:35:08;Suivi/Publicité
+_gcl_au;.showroomprive.com;Persistent;Tierce Partie;False;False;2024-02-13 09:04:55;Suivi/Publicité
+_scid;.showroomprive.com;Persistent;Tierce Partie;False;False;2024-12-15 01:23:20;Suivi/Publicité
+__rtbh.lid;www.showroomprive.com;Persistent;Première-Partie;False;False;2024-11-14 10:04:56;Persistant
+_gid;.showroomprive.com;Persistent;Tierce Partie;False;False;2023-11-16 09:05:00;Suivi/Publicité
+mics_lts;.showroomprive.com;Persistent;Tierce Partie;True;True;2024-11-14 09:04:51;Suivi/Publicité
+_hjHasCachedUserAttributes;www.showroomprive.com;Session;Première-Partie;False;True;Session;Fonctionnel
+mics_lts;www.showroomprive.com;Persistent;Première-Partie;False;False;2024-05-13 10:04:56;Persistant
+_hjAbsoluteSessionInProgress;.showroomprive.com;Persistent;Tierce Partie;False;True;2023-11-15 09:35:08;Suivi/Publicité
+mics_uaid;.showroomprive.com;Persistent;Tierce Partie;True;True;2024-11-14 09:04:51;Suivi/Publicité
+mics_vid;.showroomprive.com;Persistent;Tierce Partie;True;True;2024-11-14 09:04:51;Suivi/Publicité
+_tt_enable_cookie;.showroomprive.com;Persistent;Tierce Partie;False;False;2024-12-09 09:05:03;Suivi/Publicité
+cikneeto_uuid;.showroomprive.com;Persistent;Tierce Partie;False;False;2024-12-09 09:04:50;Suivi/Publicité
+cikneeto;.showroomprive.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+rgpd_cookies;.showroomprive.com;Persistent;Tierce Partie;False;False;2024-05-15 10:04:50;Suivi/Publicité
+SRP;www.showroomprive.com;Session;Première-Partie;False;True;Session;Fonctionnel
+SRPInscription;www.showroomprive.com;Session;Première-Partie;False;True;Session;Fonctionnel
+usrsrc;.showroomprive.com;Persistent;Tierce Partie;False;False;2024-12-15 01:23:07;Suivi/Publicité
+_ga;.showroomprive.com;Persistent;Tierce Partie;False;False;2024-12-19 09:05:00;Suivi/Publicité
+FPID;.showroomprive.com;Persistent;Tierce Partie;True;True;2024-12-19 09:04:55;Suivi/Publicité
+TS01ac3dcd;.showroomprive.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+mics_vid;www.showroomprive.com;Persistent;Première-Partie;False;False;2024-05-13 10:04:56;Persistant
+dtCookie;.showroomprive.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+SRPGUID;.showroomprive.com;Session;Tierce Partie;False;False;Session;Suivi/Publicité
+SRPDATA;www.showroomprive.com;Session;Première-Partie;False;True;Session;Fonctionnel
+uid;.showroomprive.com;Persistent;Tierce Partie;True;True;2024-11-14 09:04:51;Suivi/Publicité
+SRPARF;www.showroomprive.com;Session;Première-Partie;False;True;Session;Fonctionnel
+SRPCRM;www.showroomprive.com;Persistent;Première-Partie;False;True;2023-11-15 09:24:56;Persistant
+_pk_ses.2.63f8;notube.io;Persistent;Première-Partie;False;False;2023-11-15 09:36:21;Persistant
+_pk_id.2.63f8;notube.io;Persistent;Première-Partie;False;False;2024-12-12 09:06:21;Persistant
+acceptCookies;notube.io;Persistent;Première-Partie;False;False;2024-11-14 09:06:16;Persistant

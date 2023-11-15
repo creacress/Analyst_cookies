@@ -1,0 +1,457 @@
+Nom du cookie,Domaine,Chemin,Durée de Vie,Taille,Valeur,HTTP Only,Sécurisé,SameSite,Catégorie
+,,,,,,,,,
+xdid,.fr.hotels.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-14 02:47:46,
+EG_SESSIONTOKEN,.hotels.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-18 09:34:33
+_abck,.hotels.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 09:34:25
+s_ppn,.hotels.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-14 10:04:24
+AMCV_C00802BE5330A8350A490D4C%40AdobeOrg,.hotels.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 09:34:24
+AWSELBCORS,fr.hotels.com,Persistent,Première-Partie,Secure,Unknown,False,True,2023-11-14 10:34:24
+AWSELB,fr.hotels.com,Persistent,Première-Partie,None,Unknown,False,False,2023-11-14 10:34:24
+cesc,.hotels.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-18 09:34:24
+s_ips,.hotels.com,Session,Tierce Partie,None,Unknown,False,False,Session
+currency,.hotels.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-18 09:34:21
+session_id,fr.hotels.com,Session,Première-Partie,None,Unknown,False,False,Session
+s_tp,.hotels.com,Session,Tierce Partie,None,Unknown,False,False,Session
+s_ppv,.hotels.com,Session,Tierce Partie,None,Unknown,False,False,Session
+AMCVS_C00802BE5330A8350A490D4C%40AdobeOrg,.hotels.com,Session,Tierce Partie,None,Unknown,False,False,Session
+bm_sz,.hotels.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-14 13:34:20
+akacd_pr_20,fr.hotels.com,Persistent,Première-Partie,Secure,Unknown,False,True,2024-01-13 09:34:21
+OIP,.hotels.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-18 09:34:21
+linfo,.hotels.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-18 09:34:33
+tpid,.hotels.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-25 23:21:01
+DUAID,.hotels.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-18 09:34:33
+page_name,fr.hotels.com,Session,Première-Partie,None,Unknown,False,False,Session
+HMS,.hotels.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 10:04:33
+CRQS,.hotels.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-18 09:34:21
+iEAPID,.hotels.com,Session,Tierce Partie,Secure,Unknown,False,True,Session
+MC1,.hotels.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-18 09:34:33
+CRQSS,.hotels.com,Session,Tierce Partie,HttpOnly; Secure,Unknown,True,True,Session
+OptanonConsent,.www.booking.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-12 10:44:37
+11_srd,.booking.com,Session,Tierce Partie,None,Unknown,False,False,Session
+qr_is_sr,.booking.com,Session,Tierce Partie,None,Unknown,False,False,Session
+bkng_sso_session,.booking.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-18 09:44:37
+OptanonAlertBoxClosed,.www.booking.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-12 10:44:37
+BJS,.booking.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2023-11-15 09:44:36
+bkng_sso_auth,.booking.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2023-11-21 09:44:35
+px_init,.booking.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-18 09:44:36
+lastSeen,.booking.com,Session,Tierce Partie,None,Unknown,False,False,Session
+cors_js,.booking.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 09:44:36
+bkng,.booking.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-18 09:44:36
+bkng_sso_ses,.booking.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-18 09:44:37
+_pxhd,.booking.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 09:44:36
+pcm_consent,.booking.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2023-11-21 09:44:35
+CONSENT,.youtube.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-18 09:49:06
+PREF,.youtube.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-18 09:49:12
+VISITOR_PRIVACY_METADATA,.youtube.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-13 09:49:06
+__Secure-YEC,.youtube.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-13 09:49:05
+YSC,.youtube.com,Session,Tierce Partie,HttpOnly; Secure,Unknown,True,True,Session
+wzcnst,.transavia.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 11:21:06
+wzuid,.transavia.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 10:21:06
+tra_debug_ga,.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 10:21:06
+cookies_accepted,.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 10:21:05
+_svs,.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 10:21:05
+nlbi_2897631,.transavia.com,Session,Tierce Partie,Secure,Unknown,False,True,Session
+tra_ga,.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 10:21:01
+_svtri,.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 10:21:01
+reese84,.www.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-12-14 10:21:00
+_stCookieTest,.transavia.com,Session,Tierce Partie,None,Unknown,False,False,Session
+nlbi_2445686_2147483392,.transavia.com,Session,Tierce Partie,Secure,Unknown,False,True,Session
+df_bpln,.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-14 10:51:00
+wzsid,.transavia.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 11:21:06
+tmDeviceId,www.transavia.com,Persistent,Première-Partie,HttpOnly; Secure,Unknown,True,True,2024-11-14 10:21:01
+SC_ANALYTICS_GLOBAL_COOKIE,www.transavia.com,Persistent,Première-Partie,HttpOnly; Secure,Unknown,True,True,2024-12-18 10:21:00
+incap_ses_1174_2897631,.transavia.com,Session,Tierce Partie,Secure,Unknown,False,True,Session
+df_ss,.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-14 10:51:00
+incap_ses_1174_2445686,.transavia.com,Session,Tierce Partie,Secure,Unknown,False,True,Session
+visid_incap_2445686,.transavia.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-11-12 23:40:13
+wzvp,.transavia.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 11:21:06
+_ga,.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 10:21:01
+tmConsent,www.transavia.com,Persistent,Première-Partie,HttpOnly; Secure,Unknown,True,True,2024-11-14 10:21:01
+ASP.NET_SessionId,www.transavia.com,Session,Première-Partie,HttpOnly; Secure,Unknown,True,True,Session
+tmId,www.transavia.com,Persistent,Première-Partie,HttpOnly; Secure,Unknown,True,True,2024-11-14 10:21:01
+df_vs,.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-14 10:51:00
+_gid,.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-15 10:21:01
+ConsentStatus,.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 10:21:01
+visid_incap_2897631,.transavia.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-11-12 23:40:12
+optimizelyEndUserId,.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-12 11:21:00
+tra_ga_21Q6T8Z90B,.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 10:21:05
+nlbi_2445686,.transavia.com,Session,Tierce Partie,Secure,Unknown,False,True,Session
+websiteeu#lang,www.transavia.com,Session,Première-Partie,Secure,Unknown,False,True,Session
+tra_debug_ga_F0BY53LJL9,.transavia.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 10:21:06
+x-ms-routing-name,.www.transavia.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2023-11-14 11:21:00
+TiPMix,.www.transavia.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2023-11-14 11:21:00
+bm_sv,.airfrance.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 12:23:01
+ak_bmsc,.airfrance.fr,Persistent,Tierce Partie,HttpOnly,Unknown,True,False,2023-11-14 12:23:01
+af_id,.airfrance.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-18 10:23:04
+session_affinity,wwws.airfrance.fr,Session,Première-Partie,HttpOnly; Secure,Unknown,True,True,Session
+_abck,.airfrance.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 10:23:04
+klm_tracking_id,.wwws.airfrance.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-15 10:23:02
+TS018c59be,wwws.airfrance.fr,Session,Première-Partie,None,Unknown,False,False,Session
+klm_tracking_id,.airfrance.fr,Session,Tierce Partie,HttpOnly; Secure,Unknown,True,True,Session
+bm_mi,.airfrance.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 12:23:01
+secure_aviato_id,wwws.airfrance.fr,Persistent,Première-Partie,HttpOnly; Secure,Unknown,True,True,2023-11-14 14:23:04
+correlation_id,wwws.airfrance.fr,Session,Première-Partie,HttpOnly; Secure,Unknown,True,True,Session
+TS01166992,.airfrance.fr,Session,Tierce Partie,None,Unknown,False,False,Session
+bm_sz,.airfrance.fr,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-14 14:23:01
+TS01e1ab4d,.wwws.airfrance.fr,Session,Tierce Partie,None,Unknown,False,False,Session
+dtCookie,.airfrance.fr,Session,Tierce Partie,Secure,Unknown,False,True,Session
+didomi_cookies,www.bfmtv.com,Persistent,Première-Partie,None,Unknown,False,False,2024-11-13 10:34:58
+didomi_token,.bfmtv.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-14 10:34:58
+atauthority,.bfmtv.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-15 10:34:58
+atuserid,.bfmtv.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-15 10:34:58
+guest_id,.twitter.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-14 10:36:21
+TAPAD,www.aufeminin.com,Session,Première-Partie,None,Unknown,False,False,Session
+__gpi,.aufeminin.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 11:00:40
+__gads,.aufeminin.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 11:00:40
+SA,www.aufeminin.com,Persistent,Première-Partie,None,Unknown,False,False,2023-11-15 11:00:40
+_hjIncludedInSessionSample_3063876,.aufeminin.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 11:30:40
+_lr_geo_location,www.aufeminin.com,Persistent,Première-Partie,None,Unknown,False,False,2023-11-15 11:00:40
+_lr_geo_location_state,www.aufeminin.com,Persistent,Première-Partie,None,Unknown,False,False,2023-11-15 11:00:40
+nadz_dailyVisits,www.aufeminin.com,Persistent,Première-Partie,None,Unknown,False,False,2023-11-16 00:59:59
+FCNEC,.aufeminin.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 11:00:41
+_ttp,.aufeminin.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 11:00:40
+_ga_Z75ED4MEYT,.aufeminin.com,Session,Tierce Partie,None,Unknown,False,False,Session
+_hjFirstSeen,.aufeminin.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 11:30:40
+Wysistat,www.aufeminin.com,Persistent,Première-Partie,None,Unknown,False,False,2024-12-13 11:00:34
+_tt_enable_cookie,.aufeminin.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 11:00:40
+_fbp,.aufeminin.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-02-12 11:00:39
+af_session,.aufeminin.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 11:00:39
+countPV,www.aufeminin.com,Session,Première-Partie,None,Unknown,False,False,Session
+_hjSessionUser_3063876,.aufeminin.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 11:00:40
+beopid,.www.aufeminin.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 11:00:39
+permutive-id,.aufeminin.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-14 11:00:39
+_pbjs_userid_consent_data,www.aufeminin.com,Persistent,Première-Partie,None,Unknown,False,False,2023-12-14 11:00:39
+_ga,.aufeminin.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-02-12 11:00:39
+_hjAbsoluteSessionInProgress,.aufeminin.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 11:30:40
+euconsent-v2,.aufeminin.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-15 11:00:39
+_hjSession_3063876,.aufeminin.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 11:30:40
+didomi_token,.aufeminin.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-15 11:00:39
+TAUD,.tripadvisor.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-28 15:03:51
+bm_sz,.tripadvisor.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-14 19:03:48
+_abck,.tripadvisor.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 15:03:50
+TASession,.tripadvisor.com,Session,Tierce Partie,None,Unknown,False,False,Session
+TATravelInfo,.tripadvisor.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-28 15:03:48
+TART,.www.tripadvisor.com,Persistent,Tierce Partie,HttpOnly,Unknown,True,False,2023-11-19 15:03:48
+PMC,.www.tripadvisor.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-18 15:03:50
+TASameSite,.www.tripadvisor.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-18 15:03:50
+TASSK,.www.tripadvisor.com,Persistent,Tierce Partie,HttpOnly,Unknown,True,False,2024-05-12 16:03:48
+__vt,.www.tripadvisor.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2023-11-14 16:03:48
+TASID,.www.tripadvisor.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 15:33:51
+ServerPool,.tripadvisor.com,Session,Tierce Partie,None,Unknown,False,False,Session
+PAC,.www.tripadvisor.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-18 15:03:51
+SRT,.www.tripadvisor.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-14 15:33:48
+roybatty,.tripadvisor.com,Session,Tierce Partie,None,Unknown,False,False,Session
+TAUnique,.tripadvisor.com,Persistent,Tierce Partie,HttpOnly,Unknown,True,False,2024-12-18 15:03:50
+datadome,.tripadvisor.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-08 15:03:51
+TADCID,.www.tripadvisor.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-18 15:03:50
+didomi_token,.konbini.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-15 15:32:13
+_pcid,www.konbini.com,Persistent,Première-Partie,Secure,Unknown,False,True,2024-12-13 15:32:12
+_pctx,www.konbini.com,Persistent,Première-Partie,Secure,Unknown,False,True,2024-12-13 15:32:12
+pa_privacy,www.konbini.com,Persistent,Première-Partie,Secure,Unknown,False,True,2024-12-13 15:32:12
+_ga_2XCYCNYNYB,.convertio.co,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 15:57:20
+s,convertio.co,Persistent,Première-Partie,HttpOnly,Unknown,True,False,2024-11-13 15:57:19
+XSRF-TOKEN,convertio.co,Persistent,Première-Partie,None,Unknown,False,False,2023-11-14 17:57:19
+_gat_gtag_UA_55374714_1,.convertio.co,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-14 15:58:19
+laravel_session,convertio.co,Persistent,Première-Partie,HttpOnly,Unknown,True,False,2023-11-14 17:57:19
+_gid,.convertio.co,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-15 15:57:19
+_ga,.convertio.co,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 15:57:19
+NID,.google.fr,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-14 08:16:25
+AEC,.google.fr,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-05-12 16:58:07
+SOCS,.google.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-13 15:58:15
+CONSENT,.google.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-18 15:58:07
+wpn_ad_cookie,.xnxx.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-21 15:59:06
+session_token,.xnxx.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-12-14 15:59:02
+cit,.xnxx.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-02-12 15:59:02
+_ga_B39RFFWGYY,.pornhub.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 16:00:57
+bs,.pornhub.com,Session,Tierce Partie,Secure,Unknown,False,True,Session
+cookieConsent,.pornhub.com,Session,Tierce Partie,Secure,Unknown,False,True,Session
+_ga,.pornhub.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 16:00:57
+__s,fr.pornhub.com,Session,Première-Partie,Secure,Unknown,False,True,Session
+fg_fa3f0973fd973fca3dfabc86790b408b,.pornhub.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-12-14 16:00:56
+fg_9951ce1ac4434b4ac312a1334fa77d82,.pornhub.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-12-14 16:00:56
+accessAgeDisclaimerPH,.pornhub.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 16:00:57
+__l,fr.pornhub.com,Persistent,Première-Partie,Secure,Unknown,False,True,2024-11-13 21:49:43
+fg_0d2ec4cbd943df07ec161982a603817e,.pornhub.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-12-14 16:00:56
+ss,.pornhub.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 16:00:56
+fg_f916a4d27adf4fc066cd2d778b4d388e,.pornhub.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-12-14 16:00:56
+platform,.pornhub.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-21 16:00:56
+_gat_UA-40988129-17,.mym.fans,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-14 16:02:59
+_fbp,.mym.fans,Persistent,Tierce Partie,None,Unknown,False,False,2024-02-12 16:02:02
+_gid,.mym.fans,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-15 16:01:59
+_ga,.mym.fans,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 16:01:59
+_hjAbsoluteSessionInProgress,.mym.fans,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 16:31:59
+_hjIncludedInSessionSample_3200599,.mym.fans,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 16:31:59
+_hjSessionUser_3200599,.mym.fans,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 16:01:59
+PHPSESSID,mym.fans,Persistent,Première-Partie,HttpOnly; Secure,Unknown,True,True,2023-11-21 15:45:19
+cookiefirst-consent,mym.fans,Persistent,Première-Partie,Secure,Unknown,False,True,2024-11-08 16:02:02
+_ttp,.mym.fans,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:01:59
+_ga_9WD7M2HTPT,.mym.fans,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 16:01:59
+_gcl_au,.mym.fans,Persistent,Tierce Partie,None,Unknown,False,False,2024-02-12 16:01:59
+_hjSession_3200599,.mym.fans,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 16:31:59
+_locale,mym.fans,Persistent,Première-Partie,HttpOnly; Secure,Unknown,True,True,2023-11-29 16:01:59
+_tt_enable_cookie,.mym.fans,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:01:59
+_hjFirstSeen,.mym.fans,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 16:31:59
+device_view,mym.fans,Persistent,Première-Partie,HttpOnly,Unknown,True,False,2023-12-14 16:01:59
+_gcl_au,.hostinger.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-02-12 16:03:55
+cookie_consent,www.hostinger.fr,Persistent,Première-Partie,None,Unknown,False,False,2024-11-13 16:03:55
+i18n_redirected,www.hostinger.fr,Persistent,Première-Partie,None,Unknown,False,False,2024-11-13 16:03:54
+__cflb,www.hostinger.fr,Persistent,Première-Partie,HttpOnly,Unknown,True,False,2023-11-15 15:03:54
+__gpi,.marmiton.org,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:05:02
+__gads,.marmiton.org,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:05:02
+TAPAD,www.marmiton.org,Session,Première-Partie,None,Unknown,False,False,Session
+SA,www.marmiton.org,Persistent,Première-Partie,None,Unknown,False,False,2023-11-15 16:05:02
+_hjSession_3052633,.marmiton.org,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 16:35:02
+_hjFirstSeen,.marmiton.org,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 16:35:02
+nadz_dailyVisits,www.marmiton.org,Persistent,Première-Partie,None,Unknown,False,False,2023-11-16 00:59:59
+_fbp,.marmiton.org,Persistent,Tierce Partie,None,Unknown,False,False,2024-02-12 16:05:02
+_ttp,.marmiton.org,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:05:02
+cto_bundle,.marmiton.org,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:05:05
+permutive-id,.marmiton.org,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-14 16:05:01
+_hjIncludedInSessionSample_3052633,.marmiton.org,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 16:35:02
+_ga,.marmiton.org,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 16:05:01
+_hjSessionUser_3052633,.marmiton.org,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 16:05:02
+euconsent-v2,.marmiton.org,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-15 16:05:01
+af_session,.marmiton.org,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 16:05:01
+_tt_enable_cookie,.marmiton.org,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:05:02
+FCNEC,.marmiton.org,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 16:05:02
+_ga_1QKNB5N4F4,.marmiton.org,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-18 16:05:01
+_hjAbsoluteSessionInProgress,.marmiton.org,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 16:35:02
+didomi_token,.marmiton.org,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-15 16:05:01
+Wysistat,www.marmiton.org,Persistent,Première-Partie,None,Unknown,False,False,2024-12-13 16:04:56
+ckLang,www.jw.org,Persistent,Première-Partie,None,Unknown,False,False,2024-11-13 16:07:44
+cookieConsent-USAGE,www.jw.org,Persistent,Première-Partie,None,Unknown,False,False,2024-11-13 16:07:44
+cookieConsent-STRICTLY_NECESSARY,www.jw.org,Persistent,Première-Partie,None,Unknown,False,False,2024-11-13 16:07:44
+cookieConsent-DIAGNOSTIC,www.jw.org,Persistent,Première-Partie,None,Unknown,False,False,2024-11-13 16:07:44
+cookieConsent-FUNCTIONAL,www.jw.org,Persistent,Première-Partie,None,Unknown,False,False,2024-11-13 16:07:44
+ak_bmsc,.jw.org,Persistent,Tierce Partie,HttpOnly,Unknown,True,False,2023-11-14 18:07:40
+akacd_rel,www.jw.org,Persistent,Première-Partie,Secure,Unknown,False,True,2023-11-14 17:07:40
+__gpi,.jeuxvideo.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:14:16
+cto_bidid,.jeuxvideo.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 17:14:10
+__gads,.jeuxvideo.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:14:16
+cto_bundle,.jeuxvideo.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 17:14:10
+_tfpvi,www.jeuxvideo.com,Persistent,Première-Partie,None,Unknown,False,False,2024-11-13 16:14:15
+pbjs-unifiedid,www.jeuxvideo.com,Session,Première-Partie,None,Unknown,False,False,Session
+mics_lts,www.jeuxvideo.com,Persistent,Première-Partie,None,Unknown,False,False,2024-05-12 17:14:16
+_lr_env_src_ats,www.jeuxvideo.com,Persistent,Première-Partie,None,Unknown,False,False,2023-12-14 16:14:15
+_lr_retry_request,www.jeuxvideo.com,Persistent,Première-Partie,None,Unknown,False,False,2023-11-14 17:14:15
+mics_vid,www.jeuxvideo.com,Persistent,Première-Partie,None,Unknown,False,False,2024-05-12 17:14:16
+_lr_geo_location,www.jeuxvideo.com,Persistent,Première-Partie,None,Unknown,False,False,2023-11-15 16:14:15
+fidcsnt,www.jeuxvideo.com,Persistent,Première-Partie,None,Unknown,False,False,2024-11-13 16:14:15
+_pbjs_userid_consent_data,www.jeuxvideo.com,Persistent,Première-Partie,None,Unknown,False,False,2023-12-14 16:14:15
+euconsent-v2,.jeuxvideo.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-14 16:14:15
+_gid,.jeuxvideo.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-15 16:14:15
+_ga,.jeuxvideo.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-14 02:14:15
+didomi_token,.jeuxvideo.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-14 16:14:15
+_lr_geo_location_state,www.jeuxvideo.com,Persistent,Première-Partie,None,Unknown,False,False,2023-11-15 16:14:15
+_lr_sampling_rate,www.jeuxvideo.com,Persistent,Première-Partie,None,Unknown,False,False,2023-11-15 16:14:18
+visitor_country,.www.jeuxvideo.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 16:14:09
+
+
+datadome,.leboncoin.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 16:35:26
+_hjAbsoluteSessionInProgress,.leboncoin.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:05:21
+_hjSessionUser_2783207,.leboncoin.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 16:35:21
+atidvisitor,www.leboncoin.fr,Persistent,Première-Partie,None,Unknown,False,False,2024-12-13 16:35:17
+_hjIncludedInSessionSample_2783207,.leboncoin.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:05:21
+_hjFirstSeen,.leboncoin.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:05:21
+include_in_experiment,.leboncoin.fr,Session,Tierce Partie,Secure,Unknown,False,True,Session
+euconsent-v2,.leboncoin.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-15 16:35:20
+dblockV,www.leboncoin.fr,Persistent,Première-Partie,None,Unknown,False,False,2024-12-14 01:28:40
+__Secure-Install,.leboncoin.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-05-15 17:35:17
+didomi_token,.leboncoin.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-15 16:35:20
+_hjSession_2783207,.leboncoin.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:05:21
+dblockS,www.leboncoin.fr,Session,Première-Partie,None,Unknown,False,False,Session
+utag_main,.leboncoin.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 16:35:17
+__Secure-InstanceId,.leboncoin.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-05-15 17:35:17
+
+pbjs-id5id_last,www.doctissimo.fr,Persistent,Première-Partie,None,Unknown,False,False,2024-02-12 16:38:50
+__gpi,.doctissimo.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:38:50
+nadz_dailyVisits,www.doctissimo.fr,Persistent,Première-Partie,None,Unknown,False,False,2023-11-16 00:59:59
+_ttp,.doctissimo.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:38:49
+_hjSession_3078202,.doctissimo.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:08:49
+_hjIncludedInSessionSample_3078202,.doctissimo.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:08:49
+_hjAbsoluteSessionInProgress,.doctissimo.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:08:49
+_hjFirstSeen,.doctissimo.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:08:49
+pbjs-id5id,www.doctissimo.fr,Persistent,Première-Partie,None,Unknown,False,False,2024-02-12 16:38:50
+beopid,.www.doctissimo.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 16:38:49
+TAPAD,www.doctissimo.fr,Session,Première-Partie,None,Unknown,False,False,Session
+_pbjs_userid_consent_data,www.doctissimo.fr,Persistent,Première-Partie,None,Unknown,False,False,2023-12-14 16:38:49
+__gads,.doctissimo.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:38:50
+didomi_token,.doctissimo.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-15 16:38:49
+_fbp,.doctissimo.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-02-12 16:38:49
+permutive-id,.doctissimo.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-14 16:38:49
+_ga_SZF7Z81G3Q,.doctissimo.fr,Session,Tierce Partie,None,Unknown,False,False,Session
+_tt_enable_cookie,.doctissimo.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:38:49
+_hjSessionUser_3078202,.doctissimo.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 16:38:49
+SA,www.doctissimo.fr,Persistent,Première-Partie,None,Unknown,False,False,2023-11-15 16:38:50
+euconsent-v2,.doctissimo.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-15 16:38:49
+_ga,.doctissimo.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-02-12 16:38:49
+Wysistat,www.doctissimo.fr,Persistent,Première-Partie,None,Unknown,False,False,2024-12-13 16:38:47
+didomi_token,.doctolib.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-15 16:42:05
+_cfuvid,.doctolib.fr,Session,Tierce Partie,HttpOnly; Secure,Unknown,True,True,Session
+_doctolib_session,www.doctolib.fr,Session,Première-Partie,HttpOnly; Secure,Unknown,True,True,Session
+euconsent-v2,.doctolib.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-15 16:42:05
+__cf_bm,.doctolib.fr,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2023-11-14 17:12:03
+acid_marketing_obk_spe_cvr,www.doctolib.fr,Persistent,Première-Partie,None,Unknown,False,False,2023-11-14 17:12:05
+esid,www.doctolib.fr,Session,Première-Partie,Secure,Unknown,False,True,Session
+ssid,www.doctolib.fr,Persistent,Première-Partie,Secure,Unknown,False,True,2024-12-14 16:42:03
+kvn,.fnac.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-15 16:45:22
+OptanonConsent,.fnac.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-12 17:45:22
+s_vi,.fnac.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:45:21
+etuix,.fnac.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-11 16:45:21
+s_fid,.fnac.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-08 16:45:22
+s_sq,.fnac.com,Session,Tierce Partie,Secure,Unknown,False,True,Session
+kameleoonVisitorCode,.fnac.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 16:45:22
+datadome,.fnac.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 16:45:21
+eupubconsent-v2,.fnac.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-12 17:45:22
+test,.fnac.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-12-14 16:45:20
+iadvize-3-consent,.fnac.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 16:45:21
+s_cc,.fnac.com,Session,Tierce Partie,Secure,Unknown,False,True,Session
+VID,.fnac.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:15:20
+OptanonAlertBoxClosed,.fnac.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-12 17:45:22
+SID,.fnac.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-05-12 17:45:20
+UID,.fnac.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-05-12 17:45:20
+OrderInSession,.fnac.com,Session,Tierce Partie,Secure,Unknown,False,True,Session
+ORGN,.fnac.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-24 16:45:20
+OptanonConsent,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-12 17:47:26
+_fbp,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-02-12 16:47:27
+_hjAbsoluteSessionInProgress,.darty.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:17:25
+_hjSession_1646490,.darty.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:17:25
+_hjFirstSeen,.darty.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:17:25
+eupubconsent-v2,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-12 17:47:26
+_cs_id,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-14 02:47:25
+_gcl_au,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-02-12 16:47:26
+dataiads-analyticsid.ba4e,.darty.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-18 16:47:26
+_hjIncludedInSessionSample_1646490,.darty.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:17:25
+_cs_s,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-14 17:17:25
+_uetvid,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:47:25
+iadvize-501-vuid,.darty.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 16:47:26
+_uetsid,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-15 16:47:25
+cto_bundle,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-14 02:47:25
+dataiads-analyticsses.ba4e,.darty.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:17:26
+dartLev,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-12-14 16:47:24
+kameleoonVisitorCode,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-28 16:47:26
+s_dartCanStc,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-12-14 16:47:24
+dartProfPa,.darty.com,Session,Tierce Partie,None,Unknown,False,False,Session
+TCID,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 16:47:24
+_cs_c,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-14 02:47:25
+mics_lts,www.darty.com,Persistent,Première-Partie,None,Unknown,False,False,2024-05-12 17:47:26
+OptanonAlertBoxClosed,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-12 17:47:25
+iadvize-501-consent,.darty.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 16:47:26
+datadome,.darty.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 16:47:25
+_hjHasCachedUserAttributes,www.darty.com,Session,Première-Partie,Secure,Unknown,False,True,Session
+tc_cj_v2,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 16:47:24
+dtCookie,.darty.com,Session,Tierce Partie,None,Unknown,False,False,Session
+tCdebugLib,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-12-14 16:47:24
+tc_payment,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-15 16:47:26
+s_dartCode,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-12-14 16:47:24
+etuix,.darty.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-11 16:47:25
+eb-profile,.darty.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 16:47:25
+mics_vid,www.darty.com,Persistent,Première-Partie,None,Unknown,False,False,2024-05-12 17:47:26
+TCSESSION,.darty.com,Session,Tierce Partie,None,Unknown,False,False,Session
+_hjSessionUser_1646490,.darty.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 16:47:25
+templateVariant,www.darty.com,Persistent,Première-Partie,None,Unknown,False,False,2024-11-13 16:47:24
+_vfa,.20minutes.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-13 16:52:45
+mics_vid,www.20minutes.fr,Persistent,Première-Partie,None,Unknown,False,False,2024-05-12 17:52:44
+_vfb,www.20minutes.fr,Persistent,Première-Partie,None,Unknown,False,False,2023-11-14 17:22:43
+_vfz,www.20minutes.fr,Persistent,Première-Partie,None,Unknown,False,False,2023-11-14 16:58:45
+_t_tests,.20minutes.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:52:43
+__gads,.20minutes.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:52:44
+_cb_svref,.20minutes.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:22:43
+_vfa,www.20minutes.fr,Persistent,Première-Partie,None,Unknown,False,False,2024-11-13 16:52:43
+_chartbeat2,.20minutes.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-13 16:52:43
+ownpage_fp2,.20minutes.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-13 16:52:43
+_vfb,.20minutes.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-14 17:22:45
+nli,.20minutes.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-13 16:52:40
+_cb,.20minutes.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-13 16:52:43
+euconsent-v2,.20minutes.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-12 16:52:42
+__gpi,.20minutes.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-08 16:52:44
+didomi_token,.20minutes.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-12 16:52:42
+atauthority,www.20minutes.fr,Persistent,Première-Partie,None,Unknown,False,False,2024-12-15 16:52:42
+mics_lts,www.20minutes.fr,Persistent,Première-Partie,None,Unknown,False,False,2024-05-12 17:52:44
+atuserid,www.20minutes.fr,Persistent,Première-Partie,None,Unknown,False,False,2024-12-15 16:52:40
+AB_test_privacy,.tf1info.fr,Persistent,Tierce Partie,None,Unknown,False,False,2023-12-14 16:58:01
+TCPID,.tf1info.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-11 16:58:01
+TC_PRIVACY,.tf1info.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-12 17:58:03
+tc_unique_id,.tf1info.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-13 16:58:01
+gig_canary_ver,.www.tf1info.fr,Session,Tierce Partie,None,Unknown,False,False,Session
+TC_PRIVACY_CENTER,.tf1info.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-12 17:58:03
+gig_canary,.www.tf1info.fr,Session,Tierce Partie,None,Unknown,False,False,Session
+Session,.materiel.net,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2023-12-14 18:18:58
+Geolocation,.materiel.net,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-02-12 18:18:58
+_pk_ses.2.fbad,.materiel.net,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-14 18:48:58
+_pk_id.2.fbad,.materiel.net,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-11 18:18:58
+_pcid,.boursorama.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-14 08:56:43
+_pprv,.boursorama.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-14 08:56:43
+tc_prvBarPageCounter,.boursorama.com,Session,Tierce Partie,None,Unknown,False,False,Session
+didomi_cookies,www.boursorama.com,Persistent,Première-Partie,None,Unknown,False,False,2024-11-14 08:56:43
+_pctx,.boursorama.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-12-14 08:56:43
+euconsent-v2,.www.boursorama.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-16 08:56:43
+__gpi,.boursorama.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-09 08:56:46
+__gads,.boursorama.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-09 08:56:46
+didomi_portal,.www.boursorama.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-16 08:56:43
+RT,.boursorama.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-22 08:56:41
+csm-hit,www.amazon.com,Persistent,Première-Partie,None,Unknown,False,False,2024-10-30 09:02:00
+ubid-main,.amazon.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-14 09:01:56
+skin,.amazon.com,Session,Tierce Partie,None,Unknown,False,False,Session
+sp-cdn,.amazon.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-11-14 09:01:41
+session-id-time,.amazon.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-14 09:01:56
+i18n-prefs,.amazon.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-14 09:01:41
+session-token,.amazon.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-14 09:01:55
+session-id,.amazon.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-14 09:01:56
+lastClickUtm,www.veepee.fr,Persistent,Première-Partie,None,Unknown,False,False,2023-11-15 10:03:42
+_hjSession_1831623,.veepee.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-15 09:33:34
+_hjFirstSeen,.veepee.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-15 09:33:34
+_qta_rum,.veepee.fr,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-15 09:33:47
+_hjSessionUser_1831623,.veepee.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-14 09:03:34
+_hjIncludedInSessionSample_1831623,.veepee.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-15 09:33:34
+lastClickPartnerId,www.veepee.fr,Persistent,Première-Partie,None,Unknown,False,False,2023-11-15 10:03:42
+_hjAbsoluteSessionInProgress,.veepee.fr,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-15 09:33:34
+OptanonConsent,.veepee.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-13 10:03:31
+OptanonAlertBoxClosed,.veepee.fr,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-13 10:03:31
+_hjIncludedInSessionSample_3058350,.showroomprive.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-15 09:35:08
+_hjSessionUser_3058350,.showroomprive.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2024-11-14 09:05:08
+_fbp,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-02-13 09:05:07
+_clsk,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-16 09:05:07
+_clck,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-11-14 09:05:06
+_ttp,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-09 09:05:03
+ABTasty,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-15 09:05:02
+ABTastySession,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-15 09:35:02
+_scid_r,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-15 01:23:20
+_gat_UA-935150-1,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-15 09:06:00
+_uetvid,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-09 09:04:56
+_uetsid,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-16 09:04:56
+_hjFirstSeen,.showroomprive.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-15 09:35:08
+_ga_SVF9N7ZGDD,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-14 19:04:59
+chk,.showroomprive.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2023-11-15 10:04:50
+comptPage,www.showroomprive.com,Session,Première-Partie,None,Unknown,False,False,Session
+_hjSession_3058350,.showroomprive.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-15 09:35:08
+_gcl_au,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-02-13 09:04:55
+_scid,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-15 01:23:20
+__rtbh.lid,www.showroomprive.com,Persistent,Première-Partie,None,Unknown,False,False,2024-11-14 10:04:56
+_gid,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2023-11-16 09:05:00
+mics_lts,.showroomprive.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-11-14 09:04:51
+_hjHasCachedUserAttributes,www.showroomprive.com,Session,Première-Partie,Secure,Unknown,False,True,Session
+mics_lts,www.showroomprive.com,Persistent,Première-Partie,None,Unknown,False,False,2024-05-13 10:04:56
+_hjAbsoluteSessionInProgress,.showroomprive.com,Persistent,Tierce Partie,Secure,Unknown,False,True,2023-11-15 09:35:08
+mics_uaid,.showroomprive.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-11-14 09:04:51
+mics_vid,.showroomprive.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-11-14 09:04:51
+_tt_enable_cookie,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-09 09:05:03
+cikneeto_uuid,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-09 09:04:50
+cikneeto,.showroomprive.com,Session,Tierce Partie,None,Unknown,False,False,Session
+rgpd_cookies,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-05-15 10:04:50
+SRP,www.showroomprive.com,Session,Première-Partie,Secure,Unknown,False,True,Session
+SRPInscription,www.showroomprive.com,Session,Première-Partie,Secure,Unknown,False,True,Session
+usrsrc,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-15 01:23:07
+_ga,.showroomprive.com,Persistent,Tierce Partie,None,Unknown,False,False,2024-12-19 09:05:00
+FPID,.showroomprive.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-12-19 09:04:55
+TS01ac3dcd,.showroomprive.com,Session,Tierce Partie,None,Unknown,False,False,Session
+mics_vid,www.showroomprive.com,Persistent,Première-Partie,None,Unknown,False,False,2024-05-13 10:04:56
+dtCookie,.showroomprive.com,Session,Tierce Partie,None,Unknown,False,False,Session
+SRPGUID,.showroomprive.com,Session,Tierce Partie,None,Unknown,False,False,Session
+SRPDATA,www.showroomprive.com,Session,Première-Partie,Secure,Unknown,False,True,Session
+uid,.showroomprive.com,Persistent,Tierce Partie,HttpOnly; Secure,Unknown,True,True,2024-11-14 09:04:51
+SRPARF,www.showroomprive.com,Session,Première-Partie,Secure,Unknown,False,True,Session
+SRPCRM,www.showroomprive.com,Persistent,Première-Partie,Secure,Unknown,False,True,2023-11-15 09:24:56
+_pk_ses.2.63f8,notube.io,Persistent,Première-Partie,None,Unknown,False,False,2023-11-15 09:36:21
+_pk_id.2.63f8,notube.io,Persistent,Première-Partie,None,Unknown,False,False,2024-12-12 09:06:21
+acceptCookies,notube.io,Persistent,Première-Partie,None,Unknown,False,False,2024-11-14 09:06:16
