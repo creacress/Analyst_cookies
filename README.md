@@ -1,4 +1,4 @@
-# Analyse de Cookies Web avec IA en Python
+# Analyse de Cookies Web avec IA en Python 🐍
 
 ## À propos du projet
 Ce projet utilise Python et l'intelligence artificielle pour analyser les cookies de sites web. L'objectif est d'offrir une compréhension approfondie des cookies, y compris leur utilisation, leur impact sur la confidentialité des utilisateurs, et leur conformité avec les réglementations en vigueur. L'interface utilisateur est développée avec une technologie front-end moderne pour une interaction facile et intuitive.
