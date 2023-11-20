@@ -17,7 +17,7 @@ Ce projet utilise Python et l'intelligence artificielle pour analyser les cookie
 ## Installation et configuration
 1. **Cloner le dépôt**:
    ```
-   git clone [URL_DU_DEPOT]
+   git clone [[URL_DU_DEPOT](https://github.com/creacress/Analyst_cookies.git)]
    ```
 2. **Installer les dépendances Backend** (depuis le dossier backend):
    ```
